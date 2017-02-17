@@ -13,17 +13,24 @@
 	border-radius: 10px;
 	float: left;
 	margin: 8%;
-
-
 }
 
-.myprofilepic {
-			height: auto; 
-    		width: auto; 
-    		max-width: 70px; 
-    		max-height: 70px;
-    		border-radius: 35px;
-    		border: 2px solid white;
+ img {
+	max-height: 200px;
+	max-width: 150px;
+	border: 0;
+	background-color: none;
+	border-radius: 10px;
+}
+
+
+#myprofilepic {
+			height: auto !important; 
+    		width: auto !important; 
+    		max-width: 70px !important; 
+    		max-height: 70px !important;
+    		border-radius: 35px !important;
+    		border: 2px solid white !important;
     		
 		}
 
